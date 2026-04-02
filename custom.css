@@ -80,31 +80,6 @@
     background: #F57C00;
 }
 
-/* Override #f3f3f3 → #4A4A4A (background) */
-.bwp-header.header-v2 .header-bottom,
-.bwp-header.header-v2 .header-search-form .search-from input[type=text],
-.bwp-header.header-v2 .header-vertical-menu,
-.filter_dropdown .sidebar-product-filter.full .bwp-filter-ajax #bwp_form_filter_product > div.active h3 {
-    background: #4A4A4A;
-}
-
-/* Override #f3f3f3 → #4A4A4A (border) */
-.bwp-header .header-search-form .search-from input[type=text],
-.filter_dropdown .sidebar-product-filter.full .bwp-filter-ajax #bwp_form_filter_product > div.active h3,
-.mini-cart .cart-popup,
-.quickview-container .woocommerce-tabs .content-ul-tab,
-.single-product .woocommerce-tabs .content-ul-tab,
-.header-categories .menu-categories {
-    border-color: #4A4A4A;
-}
-
-/* Override #f3f3f3 → #4A4A4A (border-top / border-bottom) */
-.quickview-container .woocommerce-tabs .content-ul-tab,
-.single-product .woocommerce-tabs .content-ul-tab {
-    border-top-color: #4A4A4A;
-    border-bottom-color: #4A4A4A;
-}
-
 .bwp-header.header-v2 .header-vertical-menu .verticalmenu {
     border: none;
 }
